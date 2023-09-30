@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-School of Mathermatics and Computer Sciences
-
-Nanchang University
+School of Mathermatics and Computer Sciences, Nanchang University
 
 
 
