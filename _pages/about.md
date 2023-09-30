@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 Zhenhua Peng
+
 School of Mathermatics and Computer Sciences
+
 Nanchang University
 
 Office: Room B729, Department of mathematics, School of Mathermatics and Computer Sciences, Nanchang University
@@ -21,6 +23,7 @@ Research Interests:
 3. Complementarity problems and applications
 4. Sparse optimization and applications
 5. Machine Learning Algorithms Driven by Big Data and Large-Scale Models
+
 Requirements Students：（Specify the purpose of participation in the email: research or competition）
 1. Interested in the field of scientific research
 2. Ability to complete assigned tasks on time
