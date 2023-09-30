@@ -7,6 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Zhenhua Peng
+School of Mathermatics and Computer Sciences
+Nanchang University
+
+Office: Room B729, Department of mathematics, School of Mathermatics and Computer Sciences, Nanchang University
+Phone: +86 15870605317
+Email: zhenhuapeng@whu.edu.cn; zhenhuapeng@ncu.edu.cn
+
+Research Interests:
+1. Optimization Algorithms and Theory, especially for (semivectorial) bilevel programming, stochastic programming;
+2. Nonsmooth, nonconvex optimization
+3. Complementarity problems and applications
+4. Sparse optimization and applications
+5. Machine Learning Algorithms Driven by Big Data and Large-Scale Models
+Requirements Students：（Specify the purpose of participation in the email: research or competition）
+1. Interested in the field of scientific research
+2. Ability to complete assigned tasks on time
+3. Have the foundation of calculus course
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
