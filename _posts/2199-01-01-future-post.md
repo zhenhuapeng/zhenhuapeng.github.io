@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: '学生竞赛获奖概况'
+date: 2023-10-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
   - category1
   - category2
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+2021-2023年指导学生竞赛获奖60余次，所指导学生有保送或考取浙江大学、武汉大学、复旦大学、清华大学、中山大学、哈尔滨工业大学、厦门大学、湖南大学、华南理工大学、山东大学、中央财经大学等高校。
