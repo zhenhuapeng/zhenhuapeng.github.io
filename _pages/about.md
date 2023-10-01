@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 南昌大学数学与计算机学院，硕导（数学、计算机技术）
+
 School of Mathermatics and Computer Sciences, Nanchang University
 
 研究方向：大数据优化与人工智能
