@@ -5,3 +5,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Student"
+    url: /year-archive/
+    
+  - title: "Admission"
+    url: /markdown/
