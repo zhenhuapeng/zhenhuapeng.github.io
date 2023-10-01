@@ -1,9 +1,17 @@
 ---
-1. Zhenhua Peng*, Zhongping Wan, Yujia Guo. New higher-order weak lower inner epiderivatives and application to Karush–Kuhn–Tucker necessary optimality conditions in set-valued optimization. Japan Journal of Industrial and Applied Mathematics, 2020,(SCI)
-2. Zhenhua Peng*, Zhongping Wan. Second-order composed contingent derivative of the perturbation map in multiobjective optimization. Asia-Pacific Journal of Operational Research, 2020, 37: 2050002. (SCI).
-3. Chao Jiang, Zhongping Wan, Zhenhua Peng*. A new efficient hybrid algorithm for large scale multiple traveling salesman problems. Expert Systems with Applications, 2020, 139: 112867. (SCI)
-4. (SCI)
-5. (SCI)
+
+Year 2020
+
+1. Zhenhua Peng*, Zhongping Wan, Yujia Guo. New higher-order weak lower inner epiderivatives and application to Karush–Kuhn–Tucker necessary optimality conditions in set-valued optimization. Japan Journal of Industrial and Applied Mathematics, 2020, 37: 851-866.
+2. Zhenhua Peng*, Zhongping Wan. Second-order composed contingent derivative of the perturbation map in multiobjective optimization. Asia-Pacific Journal of Operational Research, 2020, 37: 2050002.
+3. Chao Jiang, Zhongping Wan, Zhenhua Peng*. A new efficient hybrid algorithm for large scale multiple traveling salesman problems. Expert Systems with Applications, 2020, 139: 112867.
+4. YANG J, WAN Z, PENG Z. Hybrid Krill Herd Algorithm with Vortex Search for Global Numerical Optimization[J]. Wuhan University Journal of Natural Sciences, 2020.
+
+Year 2019
+
+1. Wang Y, Wan Z, Peng Z. A novel improved bird swarm algorithm for solving bound constrained optimization problems[J]. Wuhan University Journal of Natural Sciences, 2019, 24(4): 349-359.
+2. 孙源, 彭振华, 万仲平. 不确定环境下绿色竞争型闭环供应链的模糊定价模型[J]. 科技与经济, 2019, 32(2): 101-105.
+3. 卢蒙卡, 万仲平, 彭振华. 新的求解多层规划的直觉模糊交互式决策模型[J]. 计算机工程与应用, 2019, 55(16): 42-48.
 
 Year 2018
 
