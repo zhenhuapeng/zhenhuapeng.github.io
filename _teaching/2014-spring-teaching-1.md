@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+研究生课程
 
-This is a description of a teaching experience. You can use markdown like any other post.
+1. 《最优化理论与方法》
+2. 《统计机器学习方法》
+3. 《现代非凸非光滑优化算法》
 
-Heading 1
-======
+本科生课程
 
-Heading 2
-======
-
-Heading 3
-======
+1. 《数学规划》
+2. 《数学规划实验》
+3. 《机器学习》
+4. 《概率论与数理统计》
+5. 《线性代数》
