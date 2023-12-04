@@ -36,11 +36,15 @@ Research Interests:
 
 1. 特殊下层规划的双层规划问题的理论与算法及其应用研究
 
-2022级  王志兰    2023级   李文静
+2022级  王志兰
+
+2023级   李文静
    
 2. 神经网络算法中的优化理论与算法研究
 
-2022级  罗鑫灿    2023级   艾星宇
+2022级  罗鑫灿
+
+2023级   艾星宇
 
 Requirements Students：（Specify the purpose of participation in the email: research or competition）
 
