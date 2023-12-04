@@ -32,6 +32,16 @@ Research Interests:
    
 5. Machine Learning Algorithms Driven by Big Data and Large-Scale Models
 
+硕士生研究方向：
+
+1. 特殊下层规划的双层规划问题的理论与算法及其应用研究
+
+2022级  王志兰    2023级   李文静
+   
+3. 神经网络算法中的优化理论与算法研究
+
+2022级  罗鑫灿    2023级   艾星宇
+
 Requirements Students：（Specify the purpose of participation in the email: research or competition）
 
 1. Interested in the field of scientific research
