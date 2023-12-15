@@ -12,9 +12,9 @@ redirect_from:
 
 School of Mathermatics and Computer Sciences, Nanchang University
 
-研究方向：大数据优化与人工智能
+研究方向：大数据优化与大规模机器学习
 
-Office: Room B729, Department of mathematics, School of Mathermatics and Computer Sciences, Nanchang University
+Office: Room B729, Department of Mathematics, School of Mathermatics and Computer Sciences, Nanchang University
 
 Phone: +86 15870605317
 
@@ -22,15 +22,16 @@ Email: zhenhuapeng@whu.edu.cn; zhenhuapeng@ncu.edu.cn
 
 Research Interests:
 
-1. Optimization Algorithms and Theory, especially for (semivectorial) bilevel programming, stochastic programming;
-   
-2. Nonsmooth, nonconvex optimization
-   
-3. Complementarity problems and applications
-   
-4. Sparse optimization and applications
-   
-5. Machine Learning Algorithms Driven by Big Data and Large-Scale Models
+方向一：非凸非光滑优化算法与理论及其应用
+
+1.基础：最优化计算方法（凸优化）2.非凸优化算法（修：现代非凸非光滑优化算法）3.非光滑优化算法（修：现代非凸非光滑优化算法）
+
+4.应用：
+决策优化（修：多目标规划）、图像处理（修：图像恢复文献）、机器学习、深度学习（修：统计机器学习方法）、软件和器械可靠性（修：可靠性数学）、通信网络（修：通信网络文献）
+
+方向二：基于数据和模型驱动的超参数学习问题
+
+1.基础：最优化计算方法（凸优化）2.多层优化问题（修：双层规划）3.Nash均衡与互补问题（修：线性互补问题）4.随机规划与随机变分不等式（修：随机规划）5.超参数学习（修：双层规划）
 
 硕士生研究方向：
 
