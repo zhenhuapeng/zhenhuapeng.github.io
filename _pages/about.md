@@ -14,6 +14,10 @@ School of Mathermatics and Computer Sciences, Nanchang University
 
 研究方向：大数据优化与大规模机器学习
 
+2023.12——至今      南昌大学   副教授
+
+2019.12——2023.12   南昌大学   讲师
+
 Office: Room B729, Department of Mathematics, School of Mathermatics and Computer Sciences, Nanchang University
 
 Phone: +86 15870605317
