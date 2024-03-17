@@ -1,5 +1,5 @@
 ---
-title: '2024年招生方向（包括但不限）'
+title: '2024年招生方向（2024年3月20日更新）'
 date: 2023-10-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
