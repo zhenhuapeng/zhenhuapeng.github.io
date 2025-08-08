@@ -9,7 +9,7 @@ redirect_from:
 
 ## 硕士研究生
 
-* 报考南昌大学数学、计算机技术专业的学生
+* 报考南昌大学数学、统计学、计算机技术专业的学生
 * 对研究方向感兴趣，乐观上进
 * 提供一份详细简历至邮箱：zhenhuapeng@whu.edu.cn或zhenhuapeng@ncu.edu.cn或微信号（同手机号）
 
