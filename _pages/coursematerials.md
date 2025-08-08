@@ -1,10 +1,8 @@
 ---
 permalink: /coursematerials/
-excerpt: "This is a page not in th emain menu"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+redirect_from:
+  - /resume
 ---
 大数据优化
 ======
