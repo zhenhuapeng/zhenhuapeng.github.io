@@ -8,7 +8,7 @@ redirect_from:
 
 大数据优化
 ======
-[第一章  内容简介](https://zhenhuapeng.github.io/files/opt_section1.pdf)
+[第一章  内容简介](https://zhenhuapeng.github.io/files/optsection1.pdf)
 
 统计机器学习
 ======
