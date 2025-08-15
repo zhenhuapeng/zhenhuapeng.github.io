@@ -12,6 +12,10 @@ redirect_from:
 
 [第二章  基础知识：范数与导数](https://zhenhuapeng.github.io/files/OPTS1_1.pdf)
 
+[第二章  基础知识：凸规划、共轭梯度与次梯度](https://zhenhuapeng.github.io/files/OPTS1_2.pdf)
+
+[第三章  无约束优化最优性理论](https://zhenhuapeng.github.io/files/OPTS2.pdf)
+
 统计机器学习
 ======
 
