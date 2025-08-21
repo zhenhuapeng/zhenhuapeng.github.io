@@ -16,6 +16,8 @@ redirect_from:
 
 [第三章  无约束优化最优性理论](https://zhenhuapeng.github.io/files/OPTS2.pdf)
 
+[第四章  无约束优化算法](https://zhenhuapeng.github.io/files/OPTS3.pdf)
+
 统计机器学习
 ======
 
