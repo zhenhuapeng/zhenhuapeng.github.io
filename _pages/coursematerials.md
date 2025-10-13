@@ -20,6 +20,8 @@ redirect_from:
 
 [第四章  无约束优化算法：梯度类算法](https://zhenhuapeng.github.io/files/OPTS3.pdf)
 
+[第四章  无约束优化算法：共轭梯度算法+牛顿算法](https://zhenhuapeng.github.io/files/OPTS4_2.pdf)
+
 统计机器学习
 ======
 
