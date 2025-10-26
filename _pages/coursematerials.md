@@ -22,6 +22,8 @@ redirect_from:
 
 [第四章  无约束优化算法：共轭梯度算法+牛顿算法](https://zhenhuapeng.github.io/files/OPTS42.pdf)
 
+[第四章  无约束优化算法：拟牛顿算法+最小二乘算法](https://zhenhuapeng.github.io/files/OPTS46.pdf)
+
 统计机器学习
 ======
 
