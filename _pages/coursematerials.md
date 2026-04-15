@@ -28,5 +28,15 @@ redirect_from:
 ======
 课程简介：机器学习是一门多领域交叉学科，涉及概率论、统计学、逼近论、凸优化等多门学科。专门研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。它是一种通过算法和模型使计算机从数据中自动学习并进行预测或决策的技术。
 
+[第一章  机器学习导论](https://zhenhuapeng.github.io/files/ml1.pdf)
+
+[第二章  线性模型](https://zhenhuapeng.github.io/files/ml2.pdf)
+
+[第三章  决策树](https://zhenhuapeng.github.io/files/ml3.pdf)
+
+[第四章  支持向量机](https://zhenhuapeng.github.io/files/ml4.pdf)
+
+[第四章  神经网络基础](https://zhenhuapeng.github.io/files/ml5.pdf)
+
 深度学习
 ======
