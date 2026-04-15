@@ -36,7 +36,7 @@ redirect_from:
 
 [第四章  支持向量机](https://zhenhuapeng.github.io/files/ml4.pdf)
 
-[第四章  神经网络基础](https://zhenhuapeng.github.io/files/ml5.pdf)
+[第五章  神经网络基础](https://zhenhuapeng.github.io/files/ml5.pdf)
 
 深度学习
 ======
