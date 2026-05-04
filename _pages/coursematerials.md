@@ -38,5 +38,11 @@ redirect_from:
 
 [第五章  神经网络基础](https://zhenhuapeng.github.io/files/ml5.pdf)
 
+[第六章  贝叶斯分类器](https://zhenhuapeng.github.io/files/ml6.pdf)
+
+[第七章  集成学习](https://zhenhuapeng.github.io/files/ml7.pdf)
+
+[第八章  聚类](https://zhenhuapeng.github.io/files/ml8.pdf)
+
 深度学习
 ======
