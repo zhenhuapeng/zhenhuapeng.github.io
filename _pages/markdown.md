@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+暑期训练课程
+======
+[优化建模](https://zhenhuapeng.github.io/files/optlearning.pdf)
+
 ## 硕士研究生
 
 * 报考南昌大学数学、统计学、计算机技术专业的学生
