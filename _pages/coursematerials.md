@@ -46,3 +46,6 @@ redirect_from:
 
 深度学习
 ======
+暑期训练课程
+======
+[优化建模与深度学习](https://zhenhuapeng.github.io/files/optlearning.pdf)
