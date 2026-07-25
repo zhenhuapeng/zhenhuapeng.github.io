@@ -12,7 +12,7 @@ redirect_from:
 
 School of Mathermatics and Computer Sciences, Nanchang University
 
-研究方向：大数据优化与机器学习
+研究方向：大规模优化与智能决策
 
 2023.12——至今      南昌大学   副教授
 
