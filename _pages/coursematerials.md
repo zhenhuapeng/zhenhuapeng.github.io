@@ -24,6 +24,10 @@ redirect_from:
 
 [第四章  无约束优化算法：拟牛顿算法+最小二乘算法](https://zhenhuapeng.github.io/files/OPTS46.pdf)
 
+[第五章  对偶理论与约束优化理论](https://zhenhuapeng.github.io/files/section7.pdf)
+
+[第五章  约束优化算法](https://zhenhuapeng.github.io/files/section8.pdf)
+
 统计机器学习
 ======
 课程简介：机器学习是一门多领域交叉学科，涉及概率论、统计学、逼近论、凸优化等多门学科。专门研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。它是一种通过算法和模型使计算机从数据中自动学习并进行预测或决策的技术。
